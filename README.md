@@ -62,6 +62,4 @@ HR Analytics & Reporting
 Workforce Planning
 Organizational Analysis
 Business Intelligence Projects
-📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
